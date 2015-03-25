@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javaone_lib">
+    <CLASSES>
+      <root url="file://D:/javaone_lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/javaone_lib" recursive="false" />
+  </library>
+</component>
