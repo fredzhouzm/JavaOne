@@ -1,8 +1,9 @@
 <#import "spring.ftl" as spring/>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
     <title></title>
-    <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <style type="text/css">
         div#containerDiv {width:1200px;margin:0 auto;}
         div#topDiv {background-color:#99bbbb;height:200px;}
